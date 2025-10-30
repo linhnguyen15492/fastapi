@@ -1,5 +1,5 @@
+from dns.rdtypes.IN.HTTPS import HTTPS
 from fastapi import FastAPI
-
 
 app = FastAPI()
 
